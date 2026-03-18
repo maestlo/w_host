@@ -4,10 +4,10 @@ export default function Home() {
       <section className="flex flex-col items-center justify-center min-h-screen text-white px-4">
         <div className="text-center max-w-4xl mx-auto">
           <h1 className="text-6xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-            안녕하세요! 👋
+            안녕하세요! 창고형 매장 관리자님👋
           </h1>
           <p className="text-2xl text-slate-300 mb-8">
-            Next.js + Vercel + Cloudflare 로 구축된 웹 사이트입니다
+            Next.js + Vercel + Cloudflare 로 생성된 창고형 매장 웹 사이트입니다
           </p>
           <div className="flex gap-4 justify-center flex-wrap">
             <a href="/about" className="bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-full transition-all duration-300 text-lg font-semibold">

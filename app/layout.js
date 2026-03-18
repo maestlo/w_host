@@ -1,3 +1,4 @@
+
 import { Inter } from 'next/font/google';
 import './globals.css';
 
@@ -5,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   title: '나의 포트폴리오 - Next.js',
-  description: 'Next.js + Vercel + Cloudflare 로 구축된 개인 웹사이트',
+  description: 'Next.js + Vercel + Cloudflare 로 구축된 애플파이 창고형 매장 웹사이트',
 };
 
 export default function RootLayout({ children }) {
